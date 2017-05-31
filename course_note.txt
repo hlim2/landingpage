@@ -1,0 +1,10 @@
+1. go to bootstrap download site and download bootstrap
+2. go to documentation link and copy/ paste hello world template into web editor
+3. go to Font Awesome site and download the app
+4. google rendro/countdown , download the package from github, 
+retrieve the file jquery.countdown.js and paste the file into own js directory
+5. According to the readme.md, copy and paste the code into index.html and style.css
+6. Amend the jquery.countdown.js for countdown datetime format
+7. go to bootstrap, choose Documentation-> Component-> Forms section
+8. For Firefox, it may use toggleresposive to test the various screen size
+9. add PHP code for submit button in index.php
